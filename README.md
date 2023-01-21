@@ -31,7 +31,7 @@ print("Square root of the number:",newton_square(a))
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![r](Screenshot_20230121_124447.png)
 
 
 ## Result:
